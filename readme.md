@@ -1,4 +1,4 @@
-## Operation Systems - NTUA Class 2021
+## Operation Systems - ECE NTUA Course 2021
 
 All 4 Lab exercises were done in groups of 2.
 
